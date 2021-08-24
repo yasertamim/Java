@@ -1,0 +1,4 @@
+product\models\Product.class
+product\models\Country.class
+product\resources\ProductResource.class
+product\App.class
